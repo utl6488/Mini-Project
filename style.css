@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    justify-content: center;
+}
+body{
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+width: 434px;
+height: 475px;
+background-color: linear-gradient(180deg, rgba(188, 114, 246, 0.4) 0%, rgba(188, 114, 246, 0) 100%);
+  padding: 15px;
+}
+/* .image{
+    width: 350px;
+} */
+/* .homepage-heading{
+    
+      font-style: italic;
+      font-weight: bold;
+      font-size: 84px;
+}
+.homepage-container{
+    text-align: center;
+    margin-top: 80px;
+}
+.homepage-main-heading{
+    font-family: "Roboto";
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    color: rgb(20, 21, 22);
+}
+.form-class{
+    margin-left: 10px;
+}
+.homepage-form-container{
+    margin-right: 14px;
+    margin-top: 30px;
+    text-align: center;
+}
+.homepage-form{
+    font-family: 'Roboto';
+    border-width: 1px;
+    width: 130px;
+    height: 40px;
+    margin: 3px;
+    border-radius: 4px;
+    border-color:black;
+}
+.homepage-form-button{
+    width: 40px;
+    height: 38px;
+    margin: 3px;
+    background-color:rgb(162, 192, 233);
+    color:rgb(68, 60, 60);
+    border-radius: 10px;
+    font-size: 18px;
+    border-top-right-radius: 10px;
+}
+.button{
+    font-family: 'Roboto';
+    height: 35px;
+    width: 80px;
+    border-radius: 8px;
+    border-width: 2px;
+    background-color: rgb(192, 218, 240);
+    font-weight: 600;
+} */
+.action-heading{
+    font-family: 'Times New Roman';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 30px;
+    text-decoration: underline;
+    color: aliceblue;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+.logo-container{
+padding: 0px;
+}
+.logo{
+    height: 130px;
+    border-radius: 20px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.paragraph{
+    color: antiquewhite;
+    font-family: 'Times New Roman';
+    margin-left: 25px;
+    margin-right: 30px;
+}
